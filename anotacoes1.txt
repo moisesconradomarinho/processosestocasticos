@@ -1,0 +1,27 @@
+1. O que são processos estocásticos?
+
+Processo = seguimento, curso, sequencia contínua de fatos ou operações.
+Estocástico = aquilo que depende ou resulta de uma variável aleatória.
+
+Ou seja, processos estocásticos são sequencias de variáveis aleatórias observadas no tempo. É um ramo dentro da teoria das probabilidades que se opões aos processos deterministicos.
+
+Exemplos mais comuns: mercado de ações, taxas de câmbio, dados médicos como temperatura, pressão sanguínea e variações nos potenciais elétricos do cérebro registrados em eletroencefalograma, etc.
+
+2. O que é uma variável aleatória?
+
+Uma variável aleatória é qualquer resultado numérico de um experimento qualquer.
+Em outras paravras, é uma medição de algo que está sob a influencia de um ou mais mecanismos não-deterministicos, em geral, desconhecidos e sobre os quais não tem-se controle.
+Note que uma variável aleatória não descreve um valor real de uma realização de um evento, apenas um possível resultado.
+
+Com evento entenda experimento. Com realização entenda observação.
+
+3. Existe definição mais formal de processo estocástico?
+
+Sim, vamos ver.
+
+Dado um espaço de probabilidade definido por (omega, F, P) e um espaço mensurável (S, sigma).
+Um processo estocástico de valor S é um conjunto de variáveis aleatórias de valor S em omega, indexadas por um conjunto totalmemte ordenado T (tempo).
+Matematicamente,
+
+{Xt : t pertence a T}, onde cada Xt é uma variável aleatória de S em omega. S é então chamado de espaço de estados.
+
